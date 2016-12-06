@@ -1,2 +1,3 @@
-This is test git file.
+This git file is changed.
 Use it do some git exercise…
+change the test file
